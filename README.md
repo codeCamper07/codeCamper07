@@ -6,7 +6,7 @@
 I'm a full stack [MERN] developer, currently looking for a oppertunity to showcase my skills.
 
 
-## Other Common Github Profile Sections
+## More About Me
 👩‍💻 I'm currently working on a school dashboard
 
 🧠 I'm currently learning Golang
